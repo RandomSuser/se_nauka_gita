@@ -1,1 +1,2 @@
 funkcja srednia
+srednia wazona
