@@ -1,5 +1,5 @@
 #Commands
-command
+- command
 ```
 Tworzenie od podstaw:
 pwd 
@@ -24,7 +24,7 @@ git push origin master
 
 
 
-command
+- command
 ```
 
 
