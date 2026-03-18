@@ -1,4 +1,5 @@
 #Commands
+command
 ```
 Tworzenie od podstaw:
 pwd 
@@ -21,8 +22,7 @@ git push origin master
 ```
 
 ```
-
-
+command
 ```
 Klon:
 git clone <https>
