@@ -21,9 +21,13 @@ git remote -v
 git push origin master 
 ```
 
-```
+
+
+
 command
 ```
+
+
 Klon:
 git clone <https>
 
